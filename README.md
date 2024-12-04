@@ -47,8 +47,11 @@ The dataset is stored in the Excel file `[Product Sales Data.xlsx]` (https://doc
 - **Transforming Text Data**:
   - Examined and cleaned the 'Product Name' and 'Brand Name' columns for inconsistencies or irregularities, ensuring data consistency.
 
-  Data (https://docs.google.com/spreadsheets/d/16aPT1v4eVY7VhplV47_FsPCfKLbHPNZzs7og0vetzIQ/edit?usp=drive_link)
+
 ### Assignment 5: Filtering, Sorting, and Lookup Functions
+
+Data (https://docs.google.com/spreadsheets/d/16aPT1v4eVY7VhplV47_FsPCfKLbHPNZzs7og0vetzIQ/edit?usp=drive_link)
+
 - **Filtering by Price**:
   - Filtered the dataset to display only products with a price greater than $25.
 - **Category-based Filtering**:
